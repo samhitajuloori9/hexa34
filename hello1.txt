@@ -1,4 +1,5 @@
 new file
  
  test case 2
+ test case 3
  
