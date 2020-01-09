@@ -1,6 +1,9 @@
 new file
+<<<<<<< HEAD
  
  test case 2
  test case 3
  test case 4
  
+=======
+>>>>>>> parent of bc5aa23... N2
